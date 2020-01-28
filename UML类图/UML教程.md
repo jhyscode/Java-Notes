@@ -567,3 +567,5 @@ eg：”车”为一个抽象概念，在现实中并无法直接用来定义对
 时序图（Sequence Diagram）是显示对象之间交互的图，这些对象是按时间顺序排列的。时序图中显示的是参与交互的对象及其对象之间消息交互的顺序。
 
 时序图包括的建模元素主要有：对象（Actor）、生命线（Lifeline）、控制焦点（Focus of control）、消息（Message）等等。
+
+附录参考链接：[五分钟读懂UML](https://blog.csdn.net/qq_32863631/article/details/78281012)
